@@ -1,7 +1,5 @@
 # Capital Budgeting Model
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## File Access
 The model can be accessed here: [Capital Budgeting Model](https://docs.google.com/spreadsheets/d/1Vr_A171dOKhwBLp0srefiScDduR4uGoY/edit?usp=sharing&ouid=104526269926966601048&rtpof=true&sd=true)
 
